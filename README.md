@@ -1,1 +1,1 @@
-# 15-faktov
+Сайт создан 13.06.2023. Сайт основан на информации из нескольких сайтов. Все факты здесь (https://stopgame.ru/blogs/topic/23704/50_interesnyh_faktov_kotoryh_vy_ne_znali), а картинка здесь ()https://1gai.ru/publ/526512-50-neobychnyh-faktov-iz-50-raznyh-stran-mira.html.
